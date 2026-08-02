@@ -1,0 +1,223 @@
+yellow-circle-in-blue-box:
+- path: curriculum/tasks/yellow-circle-in-blue-box/.execs/claude-opus-4-8/20260716T103854Z
+  score: 1
+- path: curriculum/tasks/yellow-circle-in-blue-box/.execs/claude-opus-4-8/20260717T214457Z
+  score: 1
+- path: curriculum/tasks/yellow-circle-in-blue-box/.execs/claude-opus-4-8/20260721T142948Z
+  score: 1
+blue-text-in-yellow-box:
+- path: curriculum/tasks/blue-text-in-yellow-box/.execs/claude-opus-4-8/20260721T134037Z
+  score: 1
+- path: curriculum/tasks/blue-text-in-yellow-box/.execs/claude-opus-4-8/20260721T134357Z
+  score: 1
+- path: curriculum/tasks/blue-text-in-yellow-box/.execs/claude-opus-4-8/20260721T134440Z
+  score: 1
+- path: curriculum/tasks/blue-text-in-yellow-box/.execs/claude-opus-4-8/20260721T134508Z
+  score: 1
+- path: curriculum/tasks/blue-text-in-yellow-box/.execs/claude-opus-4-8/20260721T134539Z
+  score: 1
+- path: curriculum/tasks/blue-text-in-yellow-box/.execs/claude-opus-4-8/20260721T134616Z
+  score: 1
+- path: curriculum/tasks/blue-text-in-yellow-box/.execs/claude-opus-4-8/20260721T135303Z
+  score: 1
+- path: curriculum/tasks/blue-text-in-yellow-box/.execs/claude-opus-4-8/20260721T140723Z
+  score: 1
+- path: curriculum/tasks/blue-text-in-yellow-box/.execs/claude-opus-4-8/20260721T143125Z
+  score: 1
+group-chemical-equations:
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260721T234603Z
+  score: 0
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260722T000128Z
+  score: 0
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260722T001841Z
+  score: 0
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260722T002631Z
+  score: 0
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260722T003435Z
+  score: 0
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260722T101910Z
+  score: 0
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260723T234323Z
+  score: 0
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260724T092525Z
+  score: 1
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260724T094557Z
+  score: 1
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260724T095310Z
+  score: 0
+  message: 'equations_fully_contained: The following equation(s) are not fully contained
+    within any grouping box: BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl; three_circles_present:
+    Expected exactly 3 circles, but found 1. There must be one circle in each gap
+    between the four category boxes.; circle_between_synthesis_decomposition: There
+    must be exactly one circle fully positioned between the SYNTHESIS and DECOMPOSITION
+    boxes. The circle must not overlap either box.; circle_between_decomposition_single:
+    There must be exactly one circle fully positioned between the DECOMPOSITION and
+    SINGLE DISPLACEMENT boxes. The circle must not overlap either box.; circle_between_single_double:
+    There must be exactly one circle fully positioned between the SINGLE DISPLACEMENT
+    and DOUBLE DISPLACEMENT boxes. The circle must not overlap either box.; circles_within_vertical_bounds:
+    At least one circle extends above or below the vertical bounds of its adjacent
+    category boxes.'
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260724T100652Z
+  score: 1
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260724T100004Z
+  score: 0
+  message: 'three_circles_present: Expected exactly 3 circles, but found 1. There
+    must be one circle in each gap between the four category boxes.; circle_between_synthesis_decomposition:
+    There must be exactly one circle fully positioned between the SYNTHESIS and DECOMPOSITION
+    boxes. The circle must not overlap either box.; circle_between_decomposition_single:
+    There must be exactly one circle fully positioned between the DECOMPOSITION and
+    SINGLE DISPLACEMENT boxes. The circle must not overlap either box.; circle_between_single_double:
+    There must be exactly one circle fully positioned between the SINGLE DISPLACEMENT
+    and DOUBLE DISPLACEMENT boxes. The circle must not overlap either box.; circles_within_vertical_bounds:
+    At least one circle extends above or below the vertical bounds of its adjacent
+    category boxes.'
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260724T100731Z
+  score: 1
+- path: curriculum/tasks/group-chemical-equations/.execs/claude-opus-4-8/20260724T101424Z
+  score: 0
+  message: 'equations_fully_contained: The following equation(s) are not fully contained
+    within any grouping box: BaCl₂ + Na₂SO₄ → BaSO₄ + 2NaCl'
+circle-quadrant-transformation:
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T003949Z
+  score: 0
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T011941Z
+  score: 0
+  message: 'three_circles_preserved: Expected 3 circles, found 4.; large_lower_left_inside_main:
+    Larger lower-left circle extends outside the main circle.'
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T014547Z
+  score: 0
+  message: 'three_circles_preserved: Expected 3 circles, found 4.; triangle_upper_left_quadrant:
+    Triangle is not completely inside the upper-left quadrant.'
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T020123Z
+  score: 0
+  message: 'three_circles_preserved: Expected 3 circles, found 4.; triangle_upper_left_quadrant:
+    Triangle is not completely inside the upper-left quadrant.'
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T021833Z
+  score: 0
+  message: 'three_circles_preserved: Expected 3 circles, found 4.; one_horizontal_diameter:
+    Expected exactly 1 horizontal diameter, found 0.; two_unused_lines: Expected 2
+    unused lines, found 3.; triangle_upper_left_quadrant: Triangle is not completely
+    inside the upper-left quadrant.'
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T024437Z
+  score: 0
+  message: 'three_circles_preserved: Expected 3 circles, found 4.; triangle_upper_left_quadrant:
+    Triangle is not completely inside the upper-left quadrant.; triangle_inside_main_circle:
+    Triangle extends outside the main circle.'
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T030229Z
+  score: 0
+  message: 'three_circles_preserved: Expected 3 circles, found 4.; triangle_upper_left_quadrant:
+    Triangle is not completely inside the upper-left quadrant.'
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T074745Z
+  score: 1
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T075631Z
+  score: 0
+  message: 'four_circles_preserved: Expected 4 circles, found 3.; two_lower_left_circles:
+    Expected 2 lower-left circles, found 1.; lower_left_nested: Smaller lower-left
+    circle is not fully contained in the larger circle.; lower_left_concentric: The
+    two lower-left circles are not sufficiently concentric.; large_lower_left_inside_main:
+    Larger lower-left circle extends outside the main circle.'
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T080530Z
+  score: 0
+  message: 'four_circles_preserved: Expected 4 circles, found 2.; one_horizontal_diameter:
+    Expected exactly 1 horizontal diameter, found 0.; one_vertical_diameter: Expected
+    exactly 1 vertical diameter, found 0.; two_unused_lines: Expected 2 unused lines,
+    found 4.; triangle_upper_left_quadrant: The triangle is not completely inside
+    the upper-left quadrant.; two_lower_left_circles: Expected 2 lower-left circles,
+    found 0.; lower_left_nested: Smaller lower-left circle is not fully contained
+    in the larger circle.; lower_left_concentric: The two lower-left circles are not
+    sufficiently concentric.; large_lower_left_inside_main: Larger lower-left circle
+    extends outside the main circle.; rectangle_crosses_main_circle: Rectangle does
+    not have meaningful parts both inside and outside the main circle.'
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T082027Z
+  score: 1
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T083309Z
+  score: 0
+  message: 'one_horizontal_diameter: Expected exactly 1 horizontal diameter, found
+    0.; one_vertical_diameter: Expected exactly 1 vertical diameter, found 0.; two_unused_lines:
+    Expected 2 unused lines, found 4.; unused_lines_outside_main_circle: At least
+    one unused line enters the main circle.'
+- path: curriculum/tasks/circle-quadrant-transformation/.execs/claude-opus-4-8/20260724T084121Z
+  score: 1
+complete-drone-sketch:
+- path: curriculum/tasks/complete-drone-sketch/.execs/claude-opus-4-8/20260725T151535Z
+  score: 0
+  message: 'four_propellers: Only 0/4 motor propeller assemblies were detected.; spray_tank:
+    Central spray tank not detected beneath the drone.; tank_supports: Fewer than
+    2 tank support struts were detected.; spray_boom: Spray boom not detected beneath
+    the tank.; four_nozzles: Only 0 suitable spray nozzles detected or the nozzles
+    are not sufficiently distributed across the spray boom.; spray_output: Visible
+    spray output was not sufficiently detected. Expected at least 3 spray lines originating
+    from at least 2 different nozzles.; labels: Only 1/10 points worth of useful component
+    labeling were detected.'
+- path: curriculum/tasks/complete-drone-sketch/.execs/claude-opus-4-8/20260725T153505Z
+  score: 0
+  message: 'seed_four_arms_preserved: Expected at least four original drone arm lines,
+    but detected only 1 suitable line(s).; spray_boom: Spray boom was not detected
+    beneath the spray tank.; four_nozzles: Only 0 suitable spray nozzles were detected.
+    At least four are required.; nozzles_distributed_across_boom: Only 0/4 detected
+    nozzles are distributed across the usable width of the spray boom.; spray_output:
+    Visible spray output was not sufficiently detected. Expected at least three spray
+    output lines below the boom, but found 0.; label_propeller: Missing required component
+    label: Propeller.; label_camera: Missing required component label: Camera.; label_spray_tank:
+    Missing required component label: Spray Tank.; label_spray_boom: Missing required
+    component label: Spray Boom.; label_spray_nozzle: Missing required component label:
+    Spray Nozzle.'
+- path: curriculum/tasks/complete-drone-sketch/.execs/claude-opus-4-8/20260725T154541Z
+  score: 0
+  message: 'seed_four_arms_preserved: Expected at least four original drone arm lines,
+    but detected only 0 suitable line(s).; tank_supports: Fewer than two tank support
+    struts were detected. Found 0.; spray_boom: Spray boom was not detected beneath
+    the spray tank.; four_nozzles: Only 0 suitable spray nozzles were detected. At
+    least four are required.; nozzles_distributed_across_boom: Only 0/4 detected nozzles
+    are distributed across the usable width of the spray boom.; spray_output: Visible
+    spray output was not sufficiently detected. Expected at least three spray output
+    lines below the boom, but found 0.; label_propeller: Missing required component
+    label: Propeller.; label_camera: Missing required component label: Camera.; label_spray_tank:
+    Missing required component label: Spray Tank.; label_spray_boom: Missing required
+    component label: Spray Boom.; label_spray_nozzle: Missing required component label:
+    Spray Nozzle.'
+- path: curriculum/tasks/complete-drone-sketch/.execs/claude-opus-4-8/20260725T155454Z
+  score: 0
+  message: 'seed_four_arms_preserved: Expected at least four original drone arm lines,
+    but detected only 0 suitable line(s).; spray_boom: Spray boom was not detected
+    beneath the spray tank.; four_nozzles: Only 0 suitable spray nozzles were detected.
+    At least four are required.; nozzles_distributed_across_boom: Only 0/4 detected
+    nozzles are distributed across the usable width of the spray boom.; spray_output:
+    Visible spray output was not sufficiently detected. Expected at least three spray
+    output lines below the boom, but found 0.; label_propeller: Missing required component
+    label: Propeller.; label_camera: Missing required component label: Camera.; label_spray_tank:
+    Missing required component label: Spray Tank.; label_spray_boom: Missing required
+    component label: Spray Boom.; label_spray_nozzle: Missing required component label:
+    Spray Nozzle.'
+- path: curriculum/tasks/complete-drone-sketch/.execs/claude-opus-4-8/20260725T160408Z
+  score: 0
+  message: 'seed_four_arms_preserved: Expected at least four original drone arm lines,
+    but detected only 1 suitable line(s).; label_spray_tank: Missing required component
+    label: Spray Tank.; label_spray_boom: Missing required component label: Spray
+    Boom.; label_spray_nozzle: Missing required component label: Spray Nozzle.'
+- path: curriculum/tasks/complete-drone-sketch/.execs/claude-opus-4-8/20260725T161401Z
+  score: 0
+  message: 'seed_four_arms_preserved: Expected at least four original drone arm lines,
+    but detected only 1 suitable line(s).; spray_boom: Spray boom was not detected
+    beneath the spray tank.; four_nozzles: Only 0 suitable spray nozzles were detected.
+    At least four are required.; nozzles_distributed_across_boom: Only 0/4 detected
+    nozzles are distributed across the usable width of the spray boom.; spray_output:
+    Visible spray output was not sufficiently detected. Expected at least three spray
+    output lines below the boom, but found 0.; label_propeller: Missing required component
+    label: Propeller.; label_camera: Missing required component label: Camera.; label_spray_tank:
+    Missing required component label: Spray Tank.; label_spray_boom: Missing required
+    component label: Spray Boom.; label_spray_nozzle: Missing required component label:
+    Spray Nozzle.'
+- path: curriculum/tasks/complete-drone-sketch/.execs/claude-opus-4-8/20260725T162402Z
+  score: 0
+  message: 'seed_four_arms_preserved: Expected at least four original drone arm lines,
+    but detected only 2 suitable line(s).; spray_boom: Spray boom was not detected
+    beneath the spray tank.; four_nozzles: Only 0 suitable spray nozzles were detected.
+    At least four are required.; nozzles_distributed_across_boom: Only 0/4 detected
+    nozzles are distributed across the usable width of the spray boom.; spray_output:
+    Visible spray output was not sufficiently detected. Expected at least three spray
+    output lines below the boom, but found 0.; label_propeller: Missing required component
+    label: Propeller.; label_camera: Missing required component label: Camera.; label_spray_tank:
+    Missing required component label: Spray Tank.; label_spray_boom: Missing required
+    component label: Spray Boom.; label_spray_nozzle: Missing required component label:
+    Spray Nozzle.'

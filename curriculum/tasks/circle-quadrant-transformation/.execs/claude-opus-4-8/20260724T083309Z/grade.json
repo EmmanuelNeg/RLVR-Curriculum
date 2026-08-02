@@ -1,0 +1,148 @@
+{
+  "result": 0,
+  "debug": "PASS exactly_10_live_elements: Exactly 10 live elements remain.\nPASS four_circles_preserved: Exactly 4 circular elements remain.\nPASS one_rectangle_preserved: Exactly 1 rectangle remains.\nPASS one_triangle_preserved: The original triangle is preserved.\nPASS four_straight_lines_preserved: Exactly 4 straight line elements remain in addition to the triangle.\nFAIL one_horizontal_diameter: Expected exactly 1 horizontal diameter, found 0.\nFAIL one_vertical_diameter: Expected exactly 1 vertical diameter, found 0.\nFAIL two_unused_lines: Expected 2 unused lines, found 4.\nFAIL unused_lines_outside_main_circle: At least one unused line enters the main circle.\nPASS triangle_inverted: Triangle is inverted and points downward.\nPASS triangle_upper_left_quadrant: All three triangle vertices are inside the upper-left quadrant.\nPASS triangle_inside_main_circle: All three triangle vertices are inside the main circle.\nPASS one_upper_right_circle: Exactly one inner circle is in the upper-right quadrant.\nPASS upper_right_circle_inside_main: Upper-right circle is completely inside the main circle.\nPASS two_lower_left_circles: Exactly 2 inner circles are in the lower-left quadrant.\nPASS lower_left_nested: Smaller lower-left circle is completely inside the larger circle.\nPASS lower_left_concentric: The two lower-left circles are concentric.\nPASS large_lower_left_inside_main: Larger lower-left circle is completely inside the main circle.\nPASS rectangle_center_lower_right: Rectangle center is in the lower-right quadrant.\nPASS rectangle_crosses_main_circle: Rectangle meaningfully crosses the main circle boundary.",
+  "metadata": {
+    "rubrics": {
+      "exactly_10_live_elements": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Exactly 10 live elements remain."
+      },
+      "four_circles_preserved": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Exactly 4 circular elements remain."
+      },
+      "one_rectangle_preserved": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Exactly 1 rectangle remains."
+      },
+      "one_triangle_preserved": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "The original triangle is preserved."
+      },
+      "four_straight_lines_preserved": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Exactly 4 straight line elements remain in addition to the triangle."
+      },
+      "one_horizontal_diameter": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Expected exactly 1 horizontal diameter, found 0."
+      },
+      "one_vertical_diameter": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Expected exactly 1 vertical diameter, found 0."
+      },
+      "two_unused_lines": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Expected 2 unused lines, found 4."
+      },
+      "unused_lines_outside_main_circle": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "At least one unused line enters the main circle."
+      },
+      "triangle_inverted": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Triangle is inverted and points downward."
+      },
+      "triangle_upper_left_quadrant": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "All three triangle vertices are inside the upper-left quadrant."
+      },
+      "triangle_inside_main_circle": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "All three triangle vertices are inside the main circle."
+      },
+      "one_upper_right_circle": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Exactly one inner circle is in the upper-right quadrant."
+      },
+      "upper_right_circle_inside_main": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Upper-right circle is completely inside the main circle."
+      },
+      "two_lower_left_circles": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Exactly 2 inner circles are in the lower-left quadrant."
+      },
+      "lower_left_nested": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Smaller lower-left circle is completely inside the larger circle."
+      },
+      "lower_left_concentric": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "The two lower-left circles are concentric."
+      },
+      "large_lower_left_inside_main": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Larger lower-left circle is completely inside the main circle."
+      },
+      "rectangle_center_lower_right": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Rectangle center is in the lower-right quadrant."
+      },
+      "rectangle_crosses_main_circle": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Rectangle meaningfully crosses the main circle boundary."
+      }
+    }
+  }
+}

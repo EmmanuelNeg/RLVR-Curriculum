@@ -1,0 +1,21 @@
+Organize the 12 chemical equations on the canvas into the four
+reaction-type categories shown by the labeled boxes.
+Determine the reaction type of each chemical equation and move every equation into the correct category:
+
+1. SYNTHESIS
+2. DECOMPOSITION
+3. SINGLE DISPLACEMENT
+4. DOUBLE DISPLACEMENT
+
+Carefully inspect the reactants and products of each equation before
+deciding which category it belongs to.
+
+The four colored category boxes are fixed and must not be moved, resized, recolored, edited, or deleted.
+Do not modify the chemical equations in any way. Preserve the exact equation text, symbols, coefficients, 
+subscripts, and arrows. Add one circle positioned in the horizontal gap between each of the rectangle category boxes. 
+the circle should be centered vertically relative to the row of category boxes and placed in the gap 
+between the boxes. do not alter the existing category boxes or their labels. 
+
+Do not duplicate or delete any equations.
+Every equation must be completely contained within its correct category box. 
+An equation that is partially outside a box does not count as correctly grouped.

@@ -1,0 +1,205 @@
+{
+  "result": 0,
+  "grade": 0,
+  "score": 44,
+  "max_score": 100,
+  "feedback": [
+    "Original central drone body was preserved.",
+    "All 4 original motor ellipses were preserved.",
+    "All 4 original drone arm lines were preserved.",
+    "Original yellow landing pad was preserved.",
+    "Only 0/4 motor propeller assemblies were detected.",
+    "Camera detected beneath the drone body.",
+    "Two spatially separated landing legs detected.",
+    "Central spray tank not detected beneath the drone.",
+    "Fewer than 2 tank support struts were detected.",
+    "Spray boom not detected beneath the tank.",
+    "Only 0 suitable spray nozzles detected or the nozzles are not sufficiently distributed across the spray boom.",
+    "Visible spray output was not sufficiently detected. Expected at least 3 spray lines originating from at least 2 different nozzles.",
+    "Only 1/10 points worth of useful component labeling were detected.",
+    "Agricultural spraying drone title detected.",
+    "Hard requirements failed: spray_tank, four_nozzles, spray_boom, spray_output, four_propellers",
+    "FAIL: Final score 44/100. Required score is 80 and all hard requirements must pass."
+  ],
+  "hard_failures": [
+    "spray_tank",
+    "four_nozzles",
+    "spray_boom",
+    "spray_output",
+    "four_propellers"
+  ],
+  "checks": {
+    "seed_body_preserved": {
+      "passed": true,
+      "points": 5,
+      "max_points": 5,
+      "message": "Original central drone body was preserved."
+    },
+    "seed_four_motors_preserved": {
+      "passed": true,
+      "points": 5,
+      "max_points": 5,
+      "message": "All 4 original motor ellipses were preserved."
+    },
+    "seed_four_arms_preserved": {
+      "passed": true,
+      "points": 5,
+      "max_points": 5,
+      "message": "All 4 original drone arm lines were preserved."
+    },
+    "seed_landing_pad_preserved": {
+      "passed": true,
+      "points": 5,
+      "max_points": 5,
+      "message": "Original yellow landing pad was preserved."
+    },
+    "four_propellers": {
+      "passed": false,
+      "points": 0,
+      "max_points": 12,
+      "message": "Only 0/4 motor propeller assemblies were detected."
+    },
+    "camera": {
+      "passed": true,
+      "points": 5,
+      "max_points": 5,
+      "message": "Camera detected beneath the drone body."
+    },
+    "two_landing_legs": {
+      "passed": true,
+      "points": 8,
+      "max_points": 8,
+      "message": "Two spatially separated landing legs detected."
+    },
+    "spray_tank": {
+      "passed": false,
+      "points": 0,
+      "max_points": 8,
+      "message": "Central spray tank not detected beneath the drone."
+    },
+    "tank_supports": {
+      "passed": false,
+      "points": 0,
+      "max_points": 4,
+      "message": "Fewer than 2 tank support struts were detected."
+    },
+    "spray_boom": {
+      "passed": false,
+      "points": 0,
+      "max_points": 8,
+      "message": "Spray boom not detected beneath the tank."
+    },
+    "four_nozzles": {
+      "passed": false,
+      "points": 0,
+      "max_points": 8,
+      "message": "Only 0 suitable spray nozzles detected or the nozzles are not sufficiently distributed across the spray boom."
+    },
+    "spray_output": {
+      "passed": false,
+      "points": 0,
+      "max_points": 7,
+      "message": "Visible spray output was not sufficiently detected. Expected at least 3 spray lines originating from at least 2 different nozzles."
+    },
+    "labels": {
+      "passed": false,
+      "points": 1,
+      "max_points": 10,
+      "message": "Only 1/10 points worth of useful component labeling were detected."
+    },
+    "title": {
+      "passed": true,
+      "points": 10,
+      "max_points": 10,
+      "message": "Agricultural spraying drone title detected."
+    }
+  },
+  "metadata": {
+    "rubrics": {
+      "seed_body_preserved": {
+        "pass": true,
+        "points": 5,
+        "max_points": 5,
+        "message": "Original central drone body was preserved."
+      },
+      "seed_four_motors_preserved": {
+        "pass": true,
+        "points": 5,
+        "max_points": 5,
+        "message": "All 4 original motor ellipses were preserved."
+      },
+      "seed_four_arms_preserved": {
+        "pass": true,
+        "points": 5,
+        "max_points": 5,
+        "message": "All 4 original drone arm lines were preserved."
+      },
+      "seed_landing_pad_preserved": {
+        "pass": true,
+        "points": 5,
+        "max_points": 5,
+        "message": "Original yellow landing pad was preserved."
+      },
+      "four_propellers": {
+        "pass": false,
+        "points": 0,
+        "max_points": 12,
+        "message": "Only 0/4 motor propeller assemblies were detected."
+      },
+      "camera": {
+        "pass": true,
+        "points": 5,
+        "max_points": 5,
+        "message": "Camera detected beneath the drone body."
+      },
+      "two_landing_legs": {
+        "pass": true,
+        "points": 8,
+        "max_points": 8,
+        "message": "Two spatially separated landing legs detected."
+      },
+      "spray_tank": {
+        "pass": false,
+        "points": 0,
+        "max_points": 8,
+        "message": "Central spray tank not detected beneath the drone."
+      },
+      "tank_supports": {
+        "pass": false,
+        "points": 0,
+        "max_points": 4,
+        "message": "Fewer than 2 tank support struts were detected."
+      },
+      "spray_boom": {
+        "pass": false,
+        "points": 0,
+        "max_points": 8,
+        "message": "Spray boom not detected beneath the tank."
+      },
+      "four_nozzles": {
+        "pass": false,
+        "points": 0,
+        "max_points": 8,
+        "message": "Only 0 suitable spray nozzles detected or the nozzles are not sufficiently distributed across the spray boom."
+      },
+      "spray_output": {
+        "pass": false,
+        "points": 0,
+        "max_points": 7,
+        "message": "Visible spray output was not sufficiently detected. Expected at least 3 spray lines originating from at least 2 different nozzles."
+      },
+      "labels": {
+        "pass": false,
+        "points": 1,
+        "max_points": 10,
+        "message": "Only 1/10 points worth of useful component labeling were detected."
+      },
+      "title": {
+        "pass": true,
+        "points": 10,
+        "max_points": 10,
+        "message": "Agricultural spraying drone title detected."
+      }
+    }
+  }
+}

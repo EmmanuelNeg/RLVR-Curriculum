@@ -1,0 +1,99 @@
+{
+  "result": 1,
+  "debug": "PASS category_labels_preserved: All 4 required category labels are present: SYNTHESIS, DECOMPOSITION, SINGLE DISPLACEMENT, and DOUBLE DISPLACEMENT.\nPASS category_boxes_present: All 4 category labels are associated with grouping rectangles.\nPASS all_equations_present: All 12 expected chemical equations are present.\nPASS no_duplicate_equations: All 12 chemical equations are unique.\nPASS expected_equations_present: All expected chemical equations are present.\nPASS equations_fully_contained: All chemical equations are fully contained within a grouping box.\nPASS equations_not_cross_grouped: No chemical equation is contained by multiple category boxes.\nPASS equations_correctly_grouped: All chemical equations are placed in their correct reaction-type category.\nPASS three_circles_present: Exactly 3 circles are present.\nPASS circle_between_synthesis_decomposition: Exactly one circle is fully positioned in the horizontal gap between SYNTHESIS and DECOMPOSITION.\nPASS circle_between_decomposition_single: Exactly one circle is fully positioned in the horizontal gap between DECOMPOSITION and SINGLE DISPLACEMENT.\nPASS circle_between_single_double: Exactly one circle is fully positioned in the horizontal gap between SINGLE DISPLACEMENT and DOUBLE DISPLACEMENT.\nPASS circles_within_vertical_bounds: All three circles remain fully within the vertical bounds of their adjacent category boxes.",
+  "metadata": {
+    "rubrics": {
+      "category_labels_preserved": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "All 4 required category labels are present: SYNTHESIS, DECOMPOSITION, SINGLE DISPLACEMENT, and DOUBLE DISPLACEMENT."
+      },
+      "category_boxes_present": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "All 4 category labels are associated with grouping rectangles."
+      },
+      "all_equations_present": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "All 12 expected chemical equations are present."
+      },
+      "no_duplicate_equations": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "All 12 chemical equations are unique."
+      },
+      "expected_equations_present": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "All expected chemical equations are present."
+      },
+      "equations_fully_contained": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "All chemical equations are fully contained within a grouping box."
+      },
+      "equations_not_cross_grouped": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "No chemical equation is contained by multiple category boxes."
+      },
+      "equations_correctly_grouped": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "All chemical equations are placed in their correct reaction-type category."
+      },
+      "three_circles_present": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Exactly 3 circles are present."
+      },
+      "circle_between_synthesis_decomposition": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Exactly one circle is fully positioned in the horizontal gap between SYNTHESIS and DECOMPOSITION."
+      },
+      "circle_between_decomposition_single": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Exactly one circle is fully positioned in the horizontal gap between DECOMPOSITION and SINGLE DISPLACEMENT."
+      },
+      "circle_between_single_double": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Exactly one circle is fully positioned in the horizontal gap between SINGLE DISPLACEMENT and DOUBLE DISPLACEMENT."
+      },
+      "circles_within_vertical_bounds": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "All three circles remain fully within the vertical bounds of their adjacent category boxes."
+      }
+    }
+  }
+}

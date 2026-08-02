@@ -1,0 +1,6 @@
+Complete the provided drone sketch and turn it into a clearly recognizable agricultural spraying drone 
+inspired by the DJI Agras series. Preserve all existing elements. Add four propellers, a camera, 
+two landing legs, a central spray tank, spray boom, multiple spray nozzles, and visible spray output. 
+Label all major components and add a title identifying the drawing as an agricultural spraying drone. 
+Use the Excalidraw drawing tools to create the missing components. 
+Align all the ellipses representing the propeller motor to the extending lines.

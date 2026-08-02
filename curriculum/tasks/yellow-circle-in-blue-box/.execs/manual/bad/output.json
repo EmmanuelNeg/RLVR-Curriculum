@@ -1,0 +1,60 @@
+{
+  "elements": [
+    {
+      "type": "rectangle",
+      "id": "DtsOTpi0rfpcA_fbBdWa2g",
+      "x": 100,
+      "y": 150,
+      "width": 500,
+      "height": 400,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "isDeleted": false,
+      "link": null,
+      "locked": false,
+      "index": "a"
+    },
+    {
+      "type": "ellipse",
+      "id": "1O7e0r3OVrZmwX6Kj0gmxw",
+      "x": 750,
+      "y": 200,
+      "width": 300,
+      "height": 300,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "isDeleted": false,
+      "link": null,
+      "locked": false,
+      "index": "b"
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}

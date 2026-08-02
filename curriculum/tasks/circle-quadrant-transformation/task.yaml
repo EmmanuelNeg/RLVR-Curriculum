@@ -1,0 +1,44 @@
+prompt:
+  type: textual
+  data: |
+        Rearrange the existing shapes into the required final arrangement without creating or deleting any shapes. 
+        Draw a horizontal diameter and a vertical diameter through the center of the large circle, dividing it into 
+        four quadrants. Leave the other two lines unused and completely outside the large circle. 
+        Place the triangle upside down in the upper-left quadrant, completely inside the large circle. 
+        Place one small circle completely inside the upper-right quadrant. Place the two remaining circles in the 
+        lower-left quadrant, with the smaller circle completely inside and concentric with the larger circle. 
+        Place the rectangle in the lower-right quadrant, with most of it inside the large circle and a portion 
+        extending outside the circle's boundary.
+
+
+
+hints:
+  type: textual
+  data: |
+data:
+  seed-json: ./seed.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

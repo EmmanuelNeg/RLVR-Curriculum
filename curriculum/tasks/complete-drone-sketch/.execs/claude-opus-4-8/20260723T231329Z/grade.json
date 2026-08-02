@@ -1,0 +1,96 @@
+{
+  "grade": 0,
+  "score": 30,
+  "max_score": 100,
+  "feedback": [
+    "Original central drone body detected.",
+    "Detected 14 motor ellipses.",
+    "Detected propeller assemblies at 5/4 motors.",
+    "Camera not detected.",
+    "Two separate landing legs were not detected.",
+    "Central spray tank not detected.",
+    "Tank support struts not sufficiently detected.",
+    "Spray boom not detected.",
+    "Only 0 suitable spray nozzles detected or they are not sufficiently distributed.",
+    "Visible spray output was not sufficiently detected.",
+    "1 major component label categories detected.",
+    "Agricultural spraying drone title detected.",
+    "Spray Output label found.",
+    "Hard requirements failed: spray_boom, camera, four_nozzles, spray_output, spray_tank, two_landing_legs",
+    "FAIL: Final score 30/100. Required score is 80 and all hard requirements must pass."
+  ],
+  "checks": {
+    "body_preserved": {
+      "passed": true,
+      "points": 5,
+      "max_points": 5,
+      "message": "Original central drone body detected."
+    },
+    "four_motors": {
+      "passed": true,
+      "points": 5,
+      "max_points": 5,
+      "message": "Detected 14 motor ellipses."
+    },
+    "four_propellers": {
+      "passed": true,
+      "points": 15,
+      "max_points": 15,
+      "message": "Detected propeller assemblies at 5/4 motors."
+    },
+    "camera": {
+      "passed": false,
+      "points": 0,
+      "max_points": 8,
+      "message": "Camera not detected."
+    },
+    "two_landing_legs": {
+      "passed": false,
+      "points": 0,
+      "max_points": 8,
+      "message": "Two separate landing legs were not detected."
+    },
+    "spray_tank": {
+      "passed": false,
+      "points": 0,
+      "max_points": 10,
+      "message": "Central spray tank not detected."
+    },
+    "tank_supports": {
+      "passed": false,
+      "points": 0,
+      "max_points": 5,
+      "message": "Tank support struts not sufficiently detected."
+    },
+    "spray_boom": {
+      "passed": false,
+      "points": 0,
+      "max_points": 10,
+      "message": "Spray boom not detected."
+    },
+    "four_nozzles": {
+      "passed": false,
+      "points": 0,
+      "max_points": 10,
+      "message": "Only 0 suitable spray nozzles detected or they are not sufficiently distributed."
+    },
+    "spray_output": {
+      "passed": false,
+      "points": 0,
+      "max_points": 10,
+      "message": "Visible spray output was not sufficiently detected."
+    },
+    "labels": {
+      "passed": false,
+      "points": 1,
+      "max_points": 10,
+      "message": "1 major component label categories detected."
+    },
+    "title": {
+      "passed": true,
+      "points": 4,
+      "max_points": 4,
+      "message": "Agricultural spraying drone title detected."
+    }
+  }
+}

@@ -1,0 +1,12 @@
+.venv/
+*__pycache__*
+.env
+uv.lock
+**/.DS_Store
+*/node_modules/*
+*preview.svg
+app/frontend/.vite/
+CLAUDE.md
+modal_deploy/
+reviews/
+tests/task/screenshot-hello-joe/.execs/

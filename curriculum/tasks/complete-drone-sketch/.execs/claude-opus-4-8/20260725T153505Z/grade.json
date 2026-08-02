@@ -1,0 +1,127 @@
+{
+  "result": 0,
+  "debug": "PASS seed_one_body_preserved: Original central drone body was preserved.\nPASS seed_one_landing_pad_preserved: Original yellow landing pad was preserved.\nFAIL seed_four_arms_preserved: Expected at least four original drone arm lines, but detected only 1 suitable line(s).\nPASS seed_four_motors_preserved: The original four motor ellipses were preserved.\nPASS four_propellers: Detected 4 propeller-shaped elements. At least four are required.\nPASS propellers_associated_with_motors: All four original motor positions have nearby propeller elements.\nPASS spray_tank: Central spray tank detected beneath the drone body.\nPASS tank_supports: Detected 2 tank support struts.\nFAIL spray_boom: Spray boom was not detected beneath the spray tank.\nFAIL four_nozzles: Only 0 suitable spray nozzles were detected. At least four are required.\nFAIL nozzles_distributed_across_boom: Only 0/4 detected nozzles are distributed across the usable width of the spray boom.\nFAIL spray_output: Visible spray output was not sufficiently detected. Expected at least three spray output lines below the boom, but found 0.\nFAIL label_propeller: Missing required component label: Propeller.\nFAIL label_camera: Missing required component label: Camera.\nFAIL label_spray_tank: Missing required component label: Spray Tank.\nFAIL label_spray_boom: Missing required component label: Spray Boom.\nFAIL label_spray_nozzle: Missing required component label: Spray Nozzle.",
+  "metadata": {
+    "rubrics": {
+      "seed_one_body_preserved": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Original central drone body was preserved."
+      },
+      "seed_one_landing_pad_preserved": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Original yellow landing pad was preserved."
+      },
+      "seed_four_arms_preserved": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Expected at least four original drone arm lines, but detected only 1 suitable line(s)."
+      },
+      "seed_four_motors_preserved": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "The original four motor ellipses were preserved."
+      },
+      "four_propellers": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Detected 4 propeller-shaped elements. At least four are required."
+      },
+      "propellers_associated_with_motors": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "All four original motor positions have nearby propeller elements."
+      },
+      "spray_tank": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Central spray tank detected beneath the drone body."
+      },
+      "tank_supports": {
+        "pass": true,
+        "expected": true,
+        "actual": true,
+        "description": "",
+        "message": "Detected 2 tank support struts."
+      },
+      "spray_boom": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Spray boom was not detected beneath the spray tank."
+      },
+      "four_nozzles": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Only 0 suitable spray nozzles were detected. At least four are required."
+      },
+      "nozzles_distributed_across_boom": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Only 0/4 detected nozzles are distributed across the usable width of the spray boom."
+      },
+      "spray_output": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Visible spray output was not sufficiently detected. Expected at least three spray output lines below the boom, but found 0."
+      },
+      "label_propeller": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Missing required component label: Propeller."
+      },
+      "label_camera": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Missing required component label: Camera."
+      },
+      "label_spray_tank": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Missing required component label: Spray Tank."
+      },
+      "label_spray_boom": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Missing required component label: Spray Boom."
+      },
+      "label_spray_nozzle": {
+        "pass": false,
+        "expected": true,
+        "actual": false,
+        "description": "",
+        "message": "Missing required component label: Spray Nozzle."
+      }
+    }
+  }
+}
