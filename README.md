@@ -4,10 +4,6 @@ This  contains three curriculum tasks designed to evaluate different aspects of 
 =======
 # Take-home — Excalidraw Browser-Use Curriculum
 
-> **[Internal — before sending to candidate]**
-> - Share the zip with the candidate via Kula
-> - Share an OpenRouter API key with a $100 cap
-
 ---
 
 ## Prerequisites
